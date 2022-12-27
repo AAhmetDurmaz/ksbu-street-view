@@ -7,6 +7,7 @@ import LocationJSON from './LocationData/locations.json';
 import { useState } from 'react';
 
 function App() {
+  const [random, setRandom] = useState(0);
   const [currentLocation, setCurrentLocation] = useState({
     lat: 39.391167251069604,
     lng: 30.03766784792898,
@@ -19,6 +20,8 @@ function App() {
     locations: LocationJSON,
     currentLocation: currentLocation,
     setCurrentLocation: setCurrentLocation,
+    random: random,
+    setRandom: setRandom,
   };
 
   return (

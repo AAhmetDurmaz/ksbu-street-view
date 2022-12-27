@@ -1,234 +1,210 @@
 [
-    {
-        "lat": 39.39097247737685,
-        "lng": 30.03811303875974,
-        "image": "39,39097247737685,30,03811303875974\\IMG_1141.JPG",
-        "name": "",
-        "desc": "",
-        "url": "https://www.google.com/maps/place/39.39097247737685,30.03811303875974"
-    },
-    {
-        "lat": 39.391167251069604,
-        "lng": 30.03766784792898,
-        "image": "39,391167251069604,30,03766784792898\\IMG_1142.JPG",
-        "name": "",
-        "desc": "",
-        "url": "https://www.google.com/maps/place/39.391167251069604,30.03766784792898"
-    },
-    {
-        "lat": 39.391382,
-        "lng": 30.038424,
-        "image": "39,391382,30,038424\\IMG_1140.JPG",
-        "name": "",
-        "desc": "",
-        "url": "https://www.google.com/maps/place/39.391382,30.038424"
-    },
-    {
-        "lat": 39.39146,
-        "lng": 30.03737,
-        "image": "39,39146,30,03737\\PANO_20221020_142700_7.jpg",
-        "name": "",
-        "desc": "",
-        "url": "https://www.google.com/maps/place/39.39146,30.03737"
-    },
-    {
-        "lat": 39.39146989863369,
-        "lng": 30.03859055077495,
-        "image": "39,39146989863369,30,03859055077495\\PANO_20221020_151245_18.jpg",
-        "name": "",
-        "desc": "",
-        "url": "https://www.google.com/maps/place/39.39146989863369,30.03859055077495"
-    },
-    {
-        "lat": 39.391515522263624,
-        "lng": 30.038451101843822,
-        "image": "39,391515522263624,30,038451101843822\\PANO_20221020_150130_14.jpg",
-        "name": "",
-        "desc": "",
-        "url": "https://www.google.com/maps/place/39.391515522263624,30.038451101843822"
-    },
-    {
-        "lat": 39.39159,
-        "lng": 30.03799,
-        "image": "39,39159,30,03799\\PANO_20221020_141125_4.jpg",
-        "name": "",
-        "desc": "",
-        "url": "https://www.google.com/maps/place/39.39159,30.03799"
-    },
-    {
-        "lat": 39.39163,
-        "lng": 30.03762,
-        "image": "39,39163,30,03762\\PANO_20221020_142037_5.jpg",
-        "name": "",
-        "desc": "",
-        "url": "https://www.google.com/maps/place/39.39163,30.03762"
-    },
-    {
-        "lat": 39.39169,
-        "lng": 30.03823,
-        "image": "39,39169,30,03823\\PANO_20221020_140351_3.jpg",
-        "name": "",
-        "desc": "",
-        "url": "https://www.google.com/maps/place/39.39169,30.03823"
-    },
-    {
-        "lat": 39.39170216407538,
-        "lng": 30.03704039358066,
-        "image": "39,39170216407538,30,03704039358066\\PANO_20221020_143118_8.jpg",
-        "name": "",
-        "desc": "",
-        "url": "https://www.google.com/maps/place/39.39170216407538,30.03704039358066"
-    },
-    {
-        "lat": 39.39189,
-        "lng": 30.0373,
-        "image": "39,39189,30,0373\\PANO_20221020_143641_9.jpg",
-        "name": "",
-        "desc": "",
-        "url": "https://www.google.com/maps/place/39.39189,30.0373"
-    },
-    {
-        "lat": 39.39212,
-        "lng": 30.03937,
-        "image": "39,39212,30,03937\\stadyum yan\u0131 ormanl\u0131k.jpg",
-        "name": "",
-        "desc": "",
-        "url": "https://www.google.com/maps/place/39.39212,30.03937"
-    },
-    {
-        "lat": 39.39214,
-        "lng": 30.03734,
-        "image": "39,39214,30,03734\\IMG_1139.JPG",
-        "name": "",
-        "desc": "",
-        "url": "https://www.google.com/maps/place/39.39214,30.03734"
-    },
-    {
-        "lat": 39.39238,
-        "lng": 30.03862,
-        "image": "39,39238,30,03862\\PANO_20221020_135812_2.jpg",
-        "name": "",
-        "desc": "",
-        "url": "https://www.google.com/maps/place/39.39238,30.03862"
-    },
-    {
-        "lat": 39.39239031455518,
-        "lng": 30.037458823174994,
-        "image": "39,39239031455518,30,037458823174994\\IMG_1138.JPG",
-        "name": "",
-        "desc": "",
-        "url": "https://www.google.com/maps/place/39.39239031455518,30.037458823174994"
-    },
-    {
-        "lat": 39.39248,
-        "lng": 30.0394,
-        "image": "39,39248,30,0394\\aa.jpg",
-        "name": "",
-        "desc": "",
-        "url": "https://www.google.com/maps/place/39.39248,30.0394"
-    },
-    {
-        "lat": 39.39253962617252,
-        "lng": 30.038193611773597,
-        "image": "39,39253962617252,30,038193611773597\\PANO_20221020_135418_1.jpg",
-        "name": "",
-        "desc": "",
-        "url": "https://www.google.com/maps/place/39.39253962617252,30.038193611773597"
-    },
-    {
-        "lat": 39.392676408805514,
-        "lng": 30.038885357334912,
-        "image": "39,392676408805514,30,038885357334912\\PANO_20221020_132426_7.jpg",
-        "name": "",
-        "desc": "",
-        "url": "https://www.google.com/maps/place/39.392676408805514,30.038885357334912"
-    },
-    {
-        "lat": 39.39270138006403,
-        "lng": 30.037646542889963,
-        "image": "39,39270138006403,30,037646542889963\\PANO_20221020_134606_0.jpg",
-        "name": "",
-        "desc": "",
-        "url": "https://www.google.com/maps/place/39.39270138006403,30.037646542889963"
-    },
-    {
-        "lat": 39.392804764271524,
-        "lng": 30.040999212379198,
-        "image": "39,392804764271524,30,040999212379198\\IMG_1135.JPG",
-        "name": "",
-        "desc": "",
-        "url": "https://www.google.com/maps/place/39.392804764271524,30.040999212379198"
-    },
-    {
-        "lat": 39.39301659169826,
-        "lng": 30.0378074455028,
-        "image": "39,39301659169826,30,0378074455028\\IMG_1137.JPG",
-        "name": "",
-        "desc": "",
-        "url": "https://www.google.com/maps/place/39.39301659169826,30.0378074455028"
-    },
-    {
-        "lat": 39.48522,
-        "lng": 29.88742,
-        "image": "39,48522,29,88742\\IMG_1146.JPG",
-        "name": "",
-        "desc": "",
-        "url": "https://www.google.com/maps/place/39.48522,29.88742"
-    },
-    {
-        "lat": 39.48556,
-        "lng": 29.88706,
-        "image": "39,48556,29,88706\\IMG_1148.JPG",
-        "name": "",
-        "desc": "",
-        "url": "https://www.google.com/maps/place/39.48556,29.88706"
-    },
-    {
-        "lat": 39.48598,
-        "lng": 29.88612,
-        "image": "39,48598,29,88612\\IMG_1149.JPG",
-        "name": "",
-        "desc": "",
-        "url": "https://www.google.com/maps/place/39.48598,29.88612"
-    },
-    {
-        "lat": 39.4864,
-        "lng": 29.88577,
-        "image": "39,4864,29,88577\\IMG_1150.JPG",
-        "name": "",
-        "desc": "",
-        "url": "https://www.google.com/maps/place/39.4864,29.88577"
-    },
-    {
-        "lat": 39.48706,
-        "lng": 29.88561,
-        "image": "39,48706,29,88561\\IMG_1151.JPG",
-        "name": "",
-        "desc": "",
-        "url": "https://www.google.com/maps/place/39.48706,29.88561"
-    },
-    {
-        "lat": 39.48717,
-        "lng": 29.886307,
-        "image": "39,487170,29,886307\\IMG_1154.JPG",
-        "name": "",
-        "desc": "",
-        "url": "https://www.google.com/maps/place/39.487170,29.886307"
-    },
-    {
-        "lat": 39.487201,
-        "lng": 29.885486,
-        "image": "39,487201,29,885486\\IMG_1152.JPG",
-        "name": "",
-        "desc": "",
-        "url": "https://www.google.com/maps/place/39.487201,29.885486"
-    },
-    {
-        "lat": 39.487485,
-        "lng": 29.886393,
-        "image": "39,487485,29,886393\\IMG_1153.JPG",
-        "name": "",
-        "desc": "",
-        "url": "https://www.google.com/maps/place/39.487485,29.886393"
-    }
+  {
+    "lat": 39.38772,
+    "lng": 30.04106,
+    "image": "39,38772,30,04106\\IMG_1141.JPG",
+    "name": "",
+    "desc": "",
+    "url": "https://www.google.com/maps/place/39.38772,30.04106"
+  },
+  {
+    "lat": 39.39133,
+    "lng": 30.03861,
+    "image": "39,39133,30,03861\\PANO_20221020_151245_18.jpg",
+    "name": "",
+    "desc": "",
+    "url": "https://www.google.com/maps/place/39.39133,30.03861"
+  },
+  {
+    "lat": 39.39137,
+    "lng": 30.03696,
+    "image": "39,39137,30,03696\\PANO_20221020_143118_8(1).jpg",
+    "name": "",
+    "desc": "",
+    "url": "https://www.google.com/maps/place/39.39137,30.03696"
+  },
+  {
+    "lat": 39.39146,
+    "lng": 30.03737,
+    "image": "39,39146,30,03737\\PANO_20221020_142700_7.jpg",
+    "name": "",
+    "desc": "",
+    "url": "https://www.google.com/maps/place/39.39146,30.03737"
+  },
+  {
+    "lat": 39.39159,
+    "lng": 30.03799,
+    "image": "39,39159,30,03799\\PANO_20221020_141125_4.jpg",
+    "name": "",
+    "desc": "",
+    "url": "https://www.google.com/maps/place/39.39159,30.03799"
+  },
+  {
+    "lat": 39.39163,
+    "lng": 30.03762,
+    "image": "39,39163,30,03762\\PANO_20221020_142037_5.jpg",
+    "name": "",
+    "desc": "",
+    "url": "https://www.google.com/maps/place/39.39163,30.03762"
+  },
+  {
+    "lat": 39.39164,
+    "lng": 30.03829,
+    "image": "39,39164,30,03829\\PANO_20221020_150130_14.jpg",
+    "name": "",
+    "desc": "",
+    "url": "https://www.google.com/maps/place/39.39164,30.03829"
+  },
+  {
+    "lat": 39.39169,
+    "lng": 30.03823,
+    "image": "39,39169,30,03823\\PANO_20221020_140351_3.jpg",
+    "name": "",
+    "desc": "",
+    "url": "https://www.google.com/maps/place/39.39169,30.03823"
+  },
+  {
+    "lat": 39.39189,
+    "lng": 30.0373,
+    "image": "39,39189,30,0373\\PANO_20221020_143641_9.jpg",
+    "name": "",
+    "desc": "",
+    "url": "https://www.google.com/maps/place/39.39189,30.0373"
+  },
+  {
+    "lat": 39.39212,
+    "lng": 30.03937,
+    "image": "39,39212,30,03937\\stadyum yan\u0131 ormanl\u0131k.jpg",
+    "name": "",
+    "desc": "",
+    "url": "https://www.google.com/maps/place/39.39212,30.03937"
+  },
+  {
+    "lat": 39.39214,
+    "lng": 30.03734,
+    "image": "39,39214,30,03734\\IMG_1139.JPG",
+    "name": "",
+    "desc": "",
+    "url": "https://www.google.com/maps/place/39.39214,30.03734"
+  },
+  {
+    "lat": 39.39238,
+    "lng": 30.03862,
+    "image": "39,39238,30,03862\\PANO_20221020_135812_2.jpg",
+    "name": "",
+    "desc": "",
+    "url": "https://www.google.com/maps/place/39.39238,30.03862"
+  },
+  {
+    "lat": 39.39243,
+    "lng": 30.03712,
+    "image": "39,39243,30,03712\\IMG_1138.JPG",
+    "name": "",
+    "desc": "",
+    "url": "https://www.google.com/maps/place/39.39243,30.03712"
+  },
+  {
+    "lat": 39.39248,
+    "lng": 30.0394,
+    "image": "39,39248,30,0394\\aa.jpg",
+    "name": "",
+    "desc": "",
+    "url": "https://www.google.com/maps/place/39.39248,30.0394"
+  },
+  {
+    "lat": 39.39251,
+    "lng": 30.03715,
+    "image": "39,39251,30,03715\\IMG_1137.JPG",
+    "name": "",
+    "desc": "",
+    "url": "https://www.google.com/maps/place/39.39251,30.03715"
+  },
+  {
+    "lat": 39.39256,
+    "lng": 30.03754,
+    "image": "39,39256,30,03754\\PANO_20221020_134606_0.jpg",
+    "name": "",
+    "desc": "",
+    "url": "https://www.google.com/maps/place/39.39256,30.03754"
+  },
+  {
+    "lat": 39.39261,
+    "lng": 30.03824,
+    "image": "39,39261,30,03824\\PANO_20221020_135418_1.jpg",
+    "name": "",
+    "desc": "",
+    "url": "https://www.google.com/maps/place/39.39261,30.03824"
+  },
+  {
+    "lat": 39.39265,
+    "lng": 30.03885,
+    "image": "39,39265,30,03885\\PANO_20221020_132426_7.jpg",
+    "name": "",
+    "desc": "",
+    "url": "https://www.google.com/maps/place/39.39265,30.03885"
+  },
+  {
+    "lat": 39.39304,
+    "lng": 30.03917,
+    "image": "39,39304,30,03917\\PANO_20221020_132426_7.jpg",
+    "name": "",
+    "desc": "",
+    "url": "https://www.google.com/maps/place/39.39304,30.03917"
+  },
+  {
+    "lat": 39.39476,
+    "lng": 30.04421,
+    "image": "39,39476,30,04421\\IMG_1135.JPG",
+    "name": "",
+    "desc": "",
+    "url": "https://www.google.com/maps/place/39.39476,30.04421"
+  },
+  {
+    "lat": 39.48522,
+    "lng": 29.88742,
+    "image": "39,48522,29,88742\\IMG_1146.JPG",
+    "name": "",
+    "desc": "",
+    "url": "https://www.google.com/maps/place/39.48522,29.88742"
+  },
+  {
+    "lat": 39.48556,
+    "lng": 29.88706,
+    "image": "39,48556,29,88706\\IMG_1148.JPG",
+    "name": "",
+    "desc": "",
+    "url": "https://www.google.com/maps/place/39.48556,29.88706"
+  },
+  {
+    "lat": 39.48598,
+    "lng": 29.88612,
+    "image": "39,48598,29,88612\\IMG_1149.JPG",
+    "name": "",
+    "desc": "",
+    "url": "https://www.google.com/maps/place/39.48598,29.88612"
+  },
+  {
+    "lat": 39.4864,
+    "lng": 29.88577,
+    "image": "39,4864,29,88577\\IMG_1150.JPG",
+    "name": "",
+    "desc": "",
+    "url": "https://www.google.com/maps/place/39.4864,29.88577"
+  },
+  {
+    "lat": 39.48706,
+    "lng": 29.88561,
+    "image": "39,48706,29,88561\\IMG_1151.JPG",
+    "name": "",
+    "desc": "",
+    "url": "https://www.google.com/maps/place/39.48706,29.88561"
+  },
+  {
+    "lat": 39.4874,
+    "lng": 29.88581,
+    "image": "39,4874,29,88581\\IMG_1142.JPG",
+    "name": "",
+    "desc": "",
+    "url": "https://www.google.com/maps/place/39.4874,29.88581"
+  }
 ]

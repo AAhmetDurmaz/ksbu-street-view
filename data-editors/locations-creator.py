@@ -1,10 +1,12 @@
 import os
 import json
 
-dirs = os.listdir('data')
+dirs = os.listdir('.')
 locations = []
 
 for i in dirs:
+    if (i == "locations-creator.py" or i == "locations.json"):
+        continue
     data = i.split(',')
     lat = data[0] + '.' + data[1]
     lng = data[2] + '.' + data[3]

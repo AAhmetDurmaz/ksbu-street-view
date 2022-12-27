@@ -1,18 +1,12 @@
-import { useContext, useEffect } from 'react';
+import { useContext } from 'react';
 import LocationContext from './LocationContext';
-import useChecksum from './useChecksum';
 
 const StreetView = ({ someProp }) => {
-    const checksum = useChecksum(someProp);
-    const { currentLocation } = useContext(LocationContext);
-
-    useEffect(() => {
-        console.log(`http://localhost:8000/pannellum.htm#config=${currentLocation.image.split("\\")[0]}/config.json&autoLoad=true`)
-    }, [currentLocation])
+    const { currentLocation, random } = useContext(LocationContext);
 
     return (
         <>
-            <iframe key={checksum} src={`http://localhost:8000/pannellum.htm#config=${currentLocation.image.split("\\")[0]}/config.json&autoLoad=true`} style={{ height: '100%', width: '100%' }} />
+            <iframe title="KSBU Street View" key={random} src={`http://localhost:8000/pannellum.htm#panorama=http://localhost:8000/data/${currentLocation.image}&autoLoad=true`} style={{ height: '100%', width: '100%' }} />
         </>
     )
 }

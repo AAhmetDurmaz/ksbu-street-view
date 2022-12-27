@@ -15,7 +15,7 @@ function LocationMarker() {
 // DEVMODE
 
 const Map = () => {
-    const { locations, currentLocation, setCurrentLocation, loaderState } = useContext(LocationContext);
+    const { locations, currentLocation, setCurrentLocation, setRandom, random } = useContext(LocationContext);
     return (
         <MapContainer center={[39.39099978419624, 30.036985874176025]} zoom={18} style={{ width: '100%', height: '100%' }}>
             <TileLayer
@@ -32,6 +32,7 @@ const Map = () => {
                         :
                         <CircleMarker eventHandlers={{
                             click: (e) => {
+                                setRandom(random + 1);
                                 setCurrentLocation({ lat: e.latlng.lat, lng: e.latlng.lng, name: "", desc: "", image: item.image });
                             }
                         }} key={index} center={[item.lat, item.lng]} pathOptions={{ fillColor: 'blue' }} radius={2.5} />
