@@ -9,11 +9,11 @@ import { useState } from 'react';
 function App() {
   const [random, setRandom] = useState(0);
   const [currentLocation, setCurrentLocation] = useState({
-    lat: 39.391167251069604,
-    lng: 30.03766784792898,
-    name: "",
-    desc: "",
-    image: "39,391167251069604,30,03766784792898\\IMG_1142.JPG",
+    lat: LocationJSON[0].lat,
+    lng: LocationJSON[0].lng,
+    name: LocationJSON[0].name,
+    desc: LocationJSON[0].desc,
+    image: LocationJSON[0].image,
   });
 
   const locationData = {
@@ -27,10 +27,10 @@ function App() {
   return (
     <LocationContext.Provider value={locationData}>
       <div className="w-screen flex">
-        <div className="h-screen grid place-items-center" style={{ width: '50%' }}>
+        <div className="h-screen grid place-items-center" style={{ width: '60%' }}>
           <StreetView />
         </div>
-        <div className="h-screen" style={{ width: '50%' }}>
+        <div className="h-screen" style={{ width: '40%' }}>
           <Map />
         </div>
       </div>

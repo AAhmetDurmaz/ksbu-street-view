@@ -1,7 +1,7 @@
 import { useContext } from 'react';
 import LocationContext from './LocationContext';
 
-const StreetView = ({ someProp }) => {
+const StreetView = () => {
     const { currentLocation, random } = useContext(LocationContext);
 
     return (

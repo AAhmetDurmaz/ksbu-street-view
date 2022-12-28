@@ -1,5 +1,3 @@
 # KSBU Campus street view.
 
-```README.md will be added in the future.```
-
-You can access panorama data with this link: XXXX
+```data-editors``` klasörü içerisini ```python3 -m http.server``` ile canlıya alıp geri kalan kısmı ```npm start``` ile canlıya alabilirsiniz. Ardından tanımlanan porttan web tarayıcısı ile ulaşılabilir.

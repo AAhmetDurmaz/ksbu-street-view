@@ -1,9 +1,8 @@
-import { MapContainer, TileLayer, Marker, Popup, CircleMarker } from 'react-leaflet';
+import { MapContainer, TileLayer, Marker, Popup, CircleMarker, useMapEvents } from 'react-leaflet';
 import { useContext } from 'react';
 import LocationContext from './LocationContext';
 
 // DEVMODE
-/*
 function LocationMarker() {
     useMapEvents({
         click(e) {
@@ -11,7 +10,6 @@ function LocationMarker() {
         },
     })
 }
-*/
 // DEVMODE
 
 const Map = () => {
@@ -38,7 +36,7 @@ const Map = () => {
                         }} key={index} center={[item.lat, item.lng]} pathOptions={{ fillColor: 'blue' }} radius={2.5} />
                 ))
             }
-            { /*<LocationMarker /> */}
+            <LocationMarker />
         </MapContainer>
     )
 }
